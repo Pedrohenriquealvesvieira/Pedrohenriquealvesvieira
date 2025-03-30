@@ -22,9 +22,9 @@
 Tenho 20 anos, Sou estudante de `Ciência da
  Computação` na UNIPÊ, atualmente no 5º período.
  Tenho experiência prática com `Python` e `Banco de
- Dados`, incluindo `SQL`, modelagem e `ETL`. Além de
- experiência em projetos acadêmicos, pessoais e
- extracurriculares. Busco constantemente aprimorar
+ Dados`, incluindo `SQL`, `modelagem`, `ETL`, `UML`, entre outros. Além de
+ experiência em projetos acadêmicos, pessoais,
+ extracurriculares e profissionais em empresas. Busco constantemente aprimorar
  minhas habilidades, incluindo o domínio do inglês,
  para me tornar um profissional cada vez mais
  qualificado na área de tecnologia. 
