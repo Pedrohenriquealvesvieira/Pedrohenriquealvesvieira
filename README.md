@@ -4,6 +4,7 @@
   </a>
 </div>
 
+<img align="center" alt="" src="./src/canva.jpeg">
 
 
 
