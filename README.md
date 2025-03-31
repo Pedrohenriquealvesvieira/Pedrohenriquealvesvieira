@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Bold&weight=800&size=35&pause=1000&color=8338ec&center=true&vCenter=true&random=false&width=1000&lines=+Pedro+Henrique+Alves " alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Bold&weight=800&size=35&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=+Pedro+Henrique+Alves " alt="Typing SVG">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Bold&weight=800&size=25&pause=1000&color=8338ec&center=true&vCenter=true&random=false&width=1000&lines=+Hi! Welcome to my Profile! " alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Bold&weight=800&size=25&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=+Hi! Welcome to my Profile! " alt="Typing SVG">
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">ℹ️ Info </h3>
 
-**`Data Scientist`**
+**`Entusiasta do universo de Dados | Python | SQL | Power BI | Machine Learning | ETL | Big Data |`**
 
 > [!IMPORTANT]
 Tenho 20 anos, Sou estudante de `Ciência da
